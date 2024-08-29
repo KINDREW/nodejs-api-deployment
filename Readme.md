@@ -12,11 +12,6 @@ This project demonstrates a basic setup for a Node.js application with a focus o
 - GitHub Actions workflow for CI/CD.
 - Deployment scripts for cloud providers.
 
-### Prerequisites
-
-- Node.js (v16.x or higher)
-- Docker
-- Git
 
 ### Installation
 
